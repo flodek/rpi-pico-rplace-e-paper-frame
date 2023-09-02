@@ -1,4 +1,4 @@
-# Raspberry Pi Pico r/Place e-link frame
+# Raspberry Pi Pico r/Place e-paper frame
 A digital frame powered by the Raspberry Pi Pico, displays a piece of [Reddit's r/place](https://www.reddit.com/r/place/) canvas at a random position.
 
 ## Hardware
