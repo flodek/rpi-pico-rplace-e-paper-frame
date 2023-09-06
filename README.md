@@ -19,7 +19,7 @@ Execute the following script to convert the resulting BMP into the color sequenc
 ```python canvas_transformer.py input_bmp_file output_file height width```
 
 ### Server Side
-TBD
+RP Pico doesn't have enough memory to store the entire canvas. This is why the solution is divided into two parts: server and client sides.
 
 ### Client Side
 TBD
