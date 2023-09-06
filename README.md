@@ -52,7 +52,7 @@ def picture():
     return res[page * p_size:page * p_size + p_size]
 ```
 ### Client Side
-TBD
+Amend ```main.py``` with your WiFi SSID and password, update the server-side URL, and save the file on the Pico.
 
 ## Demo
 ![demo](https://github.com/flodek/rpi-pico-rplace-e-paper-frame/blob/main/IMG_0126.jpeg?raw=true)
